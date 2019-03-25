@@ -11,6 +11,8 @@ public class Student {
         this(null);
     }
 
+
+
     public Student(List<Lab> labs) {
     }
 
